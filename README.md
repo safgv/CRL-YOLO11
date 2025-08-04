@@ -26,7 +26,7 @@ CRL-YOLO11 is a lightweight object detection algorithm designed for complex unde
 
 Below is the structural illustration of the CRL-YOLO11 model:
 
-![Model Architecture](./assets/CRL-YOLO.png)
+![Model Architecture](./assets/1.png)
 ---
 
 ## 📊 Comparative Evaluation Across Algorithms
