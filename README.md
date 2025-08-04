@@ -31,7 +31,7 @@ Below is the structural illustration of the CRL-YOLO11 model:
 
 ## 📊 Comparative Evaluation Across Algorithms
 
-Experiments were conducted on a self-built dataset, as well as Kaggle-Fish and URPC2019 benchmarks. CRL-YOLO11 demonstrates superior performance in terms of detection accuracy and parameter efficiency compared to mainstream lightweight models.
+Experiments were conducted on a self-built dataset. CRL-YOLO11 demonstrates superior performance in terms of detection accuracy and parameter efficiency compared to mainstream lightweight models.
 
 ![Detection Comparison](./assets/model_comparison.png)
 
@@ -57,9 +57,10 @@ CRL-YOLO11/
 
 ## 🛠️ Environment Requirements
 
-* Python ≥ 3.8
-* PyTorch ≥ 1.8
-* CUDA ≥ 10.2 (GPU recommended)
+* Python = 3.11.9
+* PyTorch = 2.1.1
+* CUDA = 11.8
+* timm >= 1.0.7
 
 Install dependencies via:
 
