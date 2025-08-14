@@ -7,7 +7,7 @@ CRL-YOLO11 is a lightweight object detection algorithm designed for complex unde
 
 ## ✨ Key Features
 
-- 🔍 **Edge-Aware and Context-Guided Attention Module (CGCAB)**  
+- 🔍 **Edge-Aware and Context-Guided Attention Module (EACGAB)**  
   Combines standard and dilated convolutions to extract both local details and global context, and introduces Coordinate Attention (CA) to enhance the modeling of weak features and edge details.
 
 - 🧩 **Lightweight Feature Aggregation Module (RGCSPELAN)**  
@@ -26,7 +26,7 @@ CRL-YOLO11 is a lightweight object detection algorithm designed for complex unde
 
 Below is the structural illustration of the CRL-YOLO11 model:
 
-![Model Architecture](./assets/1.png)
+![Model Architecture](./assets/EACGB.png)
 ---
 
 ## 📊 Comparative Evaluation Across Algorithms
