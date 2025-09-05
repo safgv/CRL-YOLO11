@@ -77,7 +77,7 @@ pip install -r requirements.txt
 This project utilizes three datasets for training and evaluation:
 
 - **🔧 Self-Built Dataset**  
-  Collected and annotated for realistic underwater conditions, featuring challenges such as low contrast, blurred edges, occlusions, and small targets. It includes diverse species and complex backgrounds.
+  Collected and annotated for realistic underwater conditions, featuring challenges such as low contrast, blurred edges, occlusions, and small targets. It includes diverse species and complex backgrounds. You can download the complete dataset archive from the [GitHub Releases page](https://github.com/safgv/CRL-YOLO11/releases/tag/v1.0)
 
 - **🐠 [Kaggle-Fish Dataset](https://www.kaggle.com/datasets) (Public)**  
   A widely-used public dataset containing various fish species under different lighting and environmental conditions, used to validate generalization ability.
